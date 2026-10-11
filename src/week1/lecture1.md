@@ -51,7 +51,7 @@ Basically, the operating system is like a manager that controls who accesses res
 
 * Because they are everywhere.
 * Knowing how the operating system works will be useful in your career. Many jobs require deep knowledge of how an operating system works.
-* Operating systems knowledge is essential for many roles, such as security-related roles.
+* Operating systems knowledge is essential for many roles.
 * Knowledge of how an operating system works will make you a better engineer.
 
 ### Why focus on Linux?
@@ -64,17 +64,11 @@ Linux is everywhere; it is used in servers, cars, embedded systems, IoT devices,
 * 1 optional live session every two weeks for Q/A.
 * The course will focus on the practical and application aspects rather than pure theory.
 
-### What do you need to study this course?
-
-* Basic understanding of Operating Systems.
-* Basic understanding of Linux commands.
-* Having a Linux VM installed.
-
 |||quiz
 - What is the job of Operating systems?
 - Can you give examples of operating systems?
 - What is Linux?
-- Make sure to have a Linux VM installed and ready for the next lectures.
+- Make sure to have an Ubuntu VM installed and ready for the next lectures.
 |||
 
 <div style="text-align: center; font-size: 0.8em; color: gray; margin-top: 50px;">Maysara Alhindi -- 2026</div>
